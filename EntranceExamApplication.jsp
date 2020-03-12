@@ -8,8 +8,7 @@
 </head>
 <body>
 
-
-
+    <p>Si Rudy Gobert kay confirmed nga naay CORONA VIRUS</p>
 
 </body>
 </html>
